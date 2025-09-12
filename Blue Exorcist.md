@@ -1,5 +1,5 @@
 ---
-Alias: Ao no Exorcist
+Aliases: Ao no Exorcist
 Score: 7
 Tone: Light
 Rank:

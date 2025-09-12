@@ -1,5 +1,5 @@
 ---
-Alias: Shingeki no Kyoujin
+Aliases: Shingeki no Kyoujin
 Score: 4
 Tone: 
 Rank:

@@ -1,5 +1,5 @@
 ---
-Alias: Boku no Hero Academia Illegals
+Aliases: Boku no Hero Academia Illegals
 Score:
 Tone: 
 Rank:

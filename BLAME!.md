@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score:
 Tone: Heavy
 Rank: 67

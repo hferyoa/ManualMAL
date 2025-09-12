@@ -1,5 +1,5 @@
 ---
-Alias: Kemono Jihen
+Aliases: Kemono Jihen
 Score:
 Tone: 
 Rank:

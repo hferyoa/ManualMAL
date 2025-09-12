@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score: 9
 Tone: Light
 Rank:

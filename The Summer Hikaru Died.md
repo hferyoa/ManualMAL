@@ -1,5 +1,5 @@
 ---
-Alias: Hikaru ga Shinda Natsu
+Aliases: Hikaru ga Shinda Natsu
 Score:
 Tone: 
 Rank: 70

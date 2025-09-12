@@ -1,5 +1,5 @@
 ---
-Alias: Kara no Kyoukai
+Aliases: Kara no Kyoukai
 Score:
 Tone: 
 Rank: 34

@@ -1,8 +1,8 @@
 ---
-Alias: Rust Eater Bisco
+Aliases: Rust Eater Bisco
 Score:
-Tone: 
-Rank: 82
+Tone:
+Rank: 83
 Genres:
   - Adventure
   - Fantasy

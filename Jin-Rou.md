@@ -1,5 +1,5 @@
 ---
-Alias: Jin-Roh The Wolf Brigade
+Aliases: Jin-Roh The Wolf Brigade
 Score:
 Tone: 
 Rank:

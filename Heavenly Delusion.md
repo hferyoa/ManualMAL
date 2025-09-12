@@ -1,5 +1,5 @@
 ---
-Alias: Tengoku Daimakyou
+Aliases: Tengoku Daimakyou
 Score:
 Tone: 
 Rank: 30

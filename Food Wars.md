@@ -1,5 +1,5 @@
 ---
-Alias: Shokugeki no Soma
+Aliases: Shokugeki no Soma
 Score:
 Tone: Light
 Rank:

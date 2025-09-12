@@ -1,5 +1,5 @@
 ---
-Alias: Yuukoku no Moriarty
+Aliases: Yuukoku no Moriarty
 Score:
 Tone: 
 Rank: 52

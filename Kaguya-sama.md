@@ -1,5 +1,5 @@
 ---
-Alias: Kaguya-sama Love is War
+Aliases: Kaguya-sama Love is War
 Score:
 Tone: 
 Rank: 4

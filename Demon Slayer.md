@@ -1,5 +1,5 @@
 ---
-Alias: Kimetsu no Yaiba
+Aliases: Kimetsu no Yaiba
 Score: 3
 Tone: 
 Rank:

@@ -1,5 +1,5 @@
 ---
-Alias: Occultic;Nine
+Aliases: Occultic;Nine
 Score:
 Tone: 
 Rank: 68

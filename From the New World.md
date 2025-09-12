@@ -1,5 +1,5 @@
 ---
-Alias: Shinsekai Yori
+Aliases: Shinsekai Yori
 Score:
 Tone: Medium
 Rank: 22

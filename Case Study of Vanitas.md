@@ -1,5 +1,5 @@
 ---
-Alias: Vanitas no Karte
+Aliases: Vanitas no Karte
 Score:
 Tone: Light
 Rank: 19

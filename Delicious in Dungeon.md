@@ -1,5 +1,5 @@
 ---
-Alias: Dungeon Meshi
+Aliases: Dungeon Meshi
 Score:
 Tone: Light
 Rank: 6

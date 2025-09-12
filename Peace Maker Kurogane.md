@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score:
 Tone: 
 Rank: 63

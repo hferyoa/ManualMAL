@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score: 2
 Tone: 
 Rank:

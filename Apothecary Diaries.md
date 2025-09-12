@@ -1,5 +1,5 @@
 ---
-Alias: Kusuriya no Hitorigoto
+Aliases: Kusuriya no Hitorigoto
 Score:
 Tone: Light
 Rank: 15

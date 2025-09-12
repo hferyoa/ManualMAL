@@ -1,7 +1,7 @@
 ---
-Alias:
+aliases:
 Score:
-Tone: 
+Tone:
 Rank: 78
 Genres:
   - Action

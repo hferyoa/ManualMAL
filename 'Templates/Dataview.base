@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.tags.containsAny("todolist", "status")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Rank
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      file.name: 1593

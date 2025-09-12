@@ -1,5 +1,5 @@
 ---
-Alias: Nanatsu no Taizai
+Aliases: Nanatsu no Taizai
 Score: 4
 Tone: 
 Rank:

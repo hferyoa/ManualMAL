@@ -1,5 +1,5 @@
 ---
-Alias: Mouryou no Hako
+Aliases: Mouryou no Hako
 Score:
 Tone: Heavy
 Rank: 64

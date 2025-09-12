@@ -1,8 +1,8 @@
 ---
-Alias:
+Aliases:
 Score:
 Tone: Heavy
-Rank: 80
+Rank: 81
 Genres:
   - Psychological
   - Horror

@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score:
 Tone: Light
 Rank: 74

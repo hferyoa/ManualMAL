@@ -1,8 +1,8 @@
 ---
-Alias: Mushoku Tensei
+Aliases: Mushoku Tensei
 Score:
-Tone: 
-Rank: 81
+Tone:
+Rank: 82
 Genres:
   - Isekai
   - Fantasy

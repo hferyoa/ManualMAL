@@ -1,5 +1,5 @@
 ---
-Alias: Ansatsu Kyoushitsu
+Aliases: Ansatsu Kyoushitsu
 Score: 9
 Tone: Medium
 Rank:

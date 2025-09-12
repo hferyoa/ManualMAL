@@ -1,5 +1,5 @@
 ---
-Alias: Ginga Eiyuu Densetsu
+Aliases: Ginga Eiyuu Densetsu
 Score:
 Tone: 
 Rank: 76

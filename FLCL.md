@@ -1,5 +1,5 @@
 ---
-Alias: Fooly Cooly
+Aliases: Fooly Cooly
 Score:
 Tone: Light
 Rank: 61

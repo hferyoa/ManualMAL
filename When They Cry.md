@@ -1,5 +1,5 @@
 ---
-Alias: Higurashi
+Aliases: Higurashi
 Score:
 Tone: 
 Rank: 26

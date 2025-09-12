@@ -1,5 +1,5 @@
 ---
-Alias: Kenpū Denki Berserk
+Aliases: Kenpū Denki Berserk
 Score:
 Tone: Heavy
 Rank:

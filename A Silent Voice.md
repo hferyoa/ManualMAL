@@ -1,5 +1,5 @@
 ---
-Alias: Koe no Katachi
+Aliases: Koe no Katachi
 Score:
 Tone: Medium
 Rank: 21

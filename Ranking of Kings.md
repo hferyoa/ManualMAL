@@ -1,5 +1,5 @@
 ---
-Alias: Ousame Ranking
+Aliases: Ousame Ranking
 Score:
 Tone: 
 Rank: 47

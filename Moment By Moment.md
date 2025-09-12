@@ -1,5 +1,5 @@
 ---
-Alias: Kokkoku
+Aliases: Kokkoku
 Score:
 Tone: 
 Rank:

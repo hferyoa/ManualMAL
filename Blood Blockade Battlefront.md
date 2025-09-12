@@ -1,5 +1,5 @@
 ---
-Alias: Kekkai Sensen
+Aliases: Kekkai Sensen
 Score:
 Tone: Light
 Rank: 10

@@ -1,5 +1,5 @@
 ---
-Alias: Ore dake Level Up na Ken
+Aliases: Ore dake Level Up na Ken
 Score: 2
 Tone: 
 Rank:

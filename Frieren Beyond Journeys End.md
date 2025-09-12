@@ -1,5 +1,5 @@
 ---
-Alias: Sousou no Frieren
+Aliases: Sousou no Frieren
 Score: 10
 Tone: 
 Rank:

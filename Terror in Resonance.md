@@ -1,5 +1,5 @@
 ---
-Alias: Zankyou no Terror
+Aliases: Zankyou no Terror
 Score:
 Tone: 
 Rank:

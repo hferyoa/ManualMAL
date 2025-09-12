@@ -1,8 +1,8 @@
 ---
-Alias:
+Aliases:
 Score:
-Tone: 
-Rank:
+Tone:
+Rank: 80
 Genres:
   - Sci-fi
   - Drama

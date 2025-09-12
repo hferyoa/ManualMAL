@@ -1,5 +1,5 @@
 ---
-Alias: Boku no Hero Academia
+Aliases: Boku no Hero Academia
 Score: 4
 Tone: 
 Rank:

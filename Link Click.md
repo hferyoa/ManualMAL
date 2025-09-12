@@ -1,5 +1,5 @@
 ---
-Alias: Shiguang Dailiren
+Aliases: Shiguang Dailiren
 Score:
 Tone: 
 Rank: 50

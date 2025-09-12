@@ -1,5 +1,5 @@
 ---
-Alias: Yojouhan Shinwa Taikei
+Aliases: Yojouhan Shinwa Taikei
 Score:
 Tone: 
 Rank: 42

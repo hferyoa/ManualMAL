@@ -1,5 +1,5 @@
 ---
-Alias:
+Aliases:
 Score:
 Tone: Medium
 Rank: 79
