@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Score": "number",
+    "Episode": "text",
+    "Total Episodes": "text",
+    "Rank": "number",
+    "Genres": "multitext",
+    "Director": "multitext",
+    "Screenwriter": "multitext",
+    "Mangaka": "multitext",
+    "Studio": "multitext"
+  }
+}

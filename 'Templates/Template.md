@@ -1,0 +1,13 @@
+---
+Alias: 
+Score: 
+Rank: 
+Genres: 
+Mangaka: 
+Screenwriter: 
+Director: 
+Studio: 
+---
+#status
+Season|Episodes|Watched|Rating
+---|---|---|---
