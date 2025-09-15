@@ -22,22 +22,8 @@
               "icon": "lucide-file",
               "title": "Template"
             }
-          },
-          {
-            "id": "0217ba9926a4b3ec",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "'Templates/Dataview.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Dataview"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fab98dc52d19db91",
+  "active": "7791b7d4ca5476e3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Vinland Saga.md",
+    "Pluto.md",
     "'Templates/Dataview.base",
+    "Monster Incidents.md",
+    "Untitled.md",
     "'Templates/Template.md",
     "Baccano!.md",
     "Sabikui Bisco.md",
@@ -226,8 +215,6 @@
     "GARO Vanishing Line.md",
     "Gachiakuta.md",
     "Ga-Rei Zero.md",
-    "Fullmetal Alchemist.md",
-    "Food Wars.md",
     "Untitled.canvas",
     "Untitled",
     "Completed/Air Gear",

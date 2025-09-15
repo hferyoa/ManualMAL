@@ -17,8 +17,9 @@ Studio:
   - Wit Studio
   - MAPPA
 ---
-#watching
-Season|Episodes|Watched|Rating
----|---|---|---
-1|24|15|8
-2|24|0|-
+#complete 
+
+| Season | Episodes | Watched | Rating |
+| ------ | -------- | ------- | ------ |
+| 1      | 24       | 24      | 8      |
+| 2      | 24       | 24      | 8      |
