@@ -1,8 +1,8 @@
 ---
 Aliases: Sousou no Frieren
 Score: 10
-Tone: 
-Rank:
+Tone:
+Rank: 2
 Genres:
   - Fantasy
   - Adventure

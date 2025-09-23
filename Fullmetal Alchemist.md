@@ -1,8 +1,8 @@
 ---
 Aliases:
-Score:
+Score: 10
 Tone:
-Rank:
+Rank: 4
 Genres:
   - Adventure
   - Dark fantasy

@@ -1,7 +1,7 @@
 ---
 Aliases:
 Score:
-Tone: 
+Tone: Light
 Rank:
 Genres:
   - Action
@@ -18,11 +18,11 @@ Studio:
   - Studio LAN
   - Bilibili
 ---
-#todolist 
+#watching
 
-Season|Episodes|Watched|Rating
----|---|---|---
-1|24|0|-
+| Season | Episodes | Watched | Rating |
+| ------ | -------- | ------- | ------ |
+| 1      | 24       | 3       | 8      |
 # Synopsis
 The story is set in a world where everyone possesses a unique superpower. The protagonist, a young man named Yoru, has a peculiar ability: he can only gain power by being the target of a vulgar or crude insult. Due to this unusual and humiliating condition, he has never been able to truly unleash his abilities.
 

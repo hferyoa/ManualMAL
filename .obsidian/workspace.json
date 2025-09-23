@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assassination Classroom.md",
+                "file": "To Be Hero X.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assassination Classroom"
+              "title": "To Be Hero X"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#watching  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,11 +203,18 @@
   },
   "active": "4a403d3a79e4661f",
   "lastOpenFiles": [
-    "91 Days.md",
+    "DanDaDan.md",
+    "Frieren Beyond Journeys End.md",
+    "Steins Gate.md",
+    "Fullmetal Alchemist.md",
+    "Full Metal Panic!.md",
+    "To Be Hero X.md",
+    "Pluto.md",
     "'Templates/Dataview.base",
+    "Assassination Classroom.md",
+    "91 Days.md",
     "'Templates/Template.md",
     "Vinland Saga.md",
-    "Pluto.md",
     "Monster Incidents.md",
     "Untitled.md",
     "Baccano!.md",
@@ -224,12 +230,6 @@
     "Occultic Nine.md",
     "BLAME!.md",
     "Ergo Proxy.md",
-    "Re ZERO.md",
-    "Requiem from the Darkness.md",
-    "Robotics Notes.md",
-    "Sabagebu!.md",
-    "GARO Vanishing Line.md",
-    "Gachiakuta.md",
     "Untitled.canvas",
     "Untitled",
     "Completed/Air Gear",
