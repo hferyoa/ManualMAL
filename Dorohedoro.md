@@ -1,6 +1,6 @@
 ---
 Aliases:
-Score:
+Score: 9
 Tone: Light
 Rank: 16
 Genres:
