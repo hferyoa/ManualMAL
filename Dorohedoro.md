@@ -18,7 +18,8 @@ Director:
 Studio:
   - MAPPA
 ---
-#todolist
+#complete 
+
 Season|Episodes|Watched|Rating
 ---|---|---|---
 1|12|12|9

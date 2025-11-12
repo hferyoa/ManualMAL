@@ -1,28 +1,29 @@
 ---
 Aliases:
-Score: 9
-Tone: Heavy
-Rank: 14
+Score:
+Tone: Light
+Rank:
 Genres:
+  - Action
+  - Comedy
   - Sci-fi
-  - Mystery
-  - Psychological
-  - Drama
 Mangaka:
-  - Naoki Urasawa
-  - Takashi Nagasaki
+  - Lan
 Screenwriter:
-  - Tatsurō Inamoto
-  - Naoki Urasawa
+  - Toshiyuki Hiraoka
 Director:
-  - Toshio Kawaguchi
+  - Li Haoling
+  - Toshiyuki Hiraoka
 Studio:
-  - Studio M2
+  - Studio LAN
+  - Bilibili
 ---
 #watching
 
 | Season | Episodes | Watched | Rating |
 | ------ | -------- | ------- | ------ |
-| 1      | 8        | 4       | 9      |
+| 1      | 24       | 3       | 9      |
 # Synopsis
-Set in a futuristic world where highly advanced robots coexist with humans, _Pluto_ follows the story of Europol detective Gesicht, a powerful robot tasked with solving a series of murders targeting both robots and humans. The victims are the world's seven most advanced robots and the humans who created them. As the investigation unfolds, Gesicht discovers a chilling truth: the murders are linked to the 39th Central Asian War and a powerful being with an unknown motive. The series explores themes of prejudice, artificial intelligence, and what it truly means to be a living being as Gesicht races against time to stop the killer known only as Pluto.
+The story is set in a world where everyone possesses a unique superpower. The protagonist, a young man named Yoru, has a peculiar ability: he can only gain power by being the target of a vulgar or crude insult. Due to this unusual and humiliating condition, he has never been able to truly unleash his abilities.
+
+The plot follows Yoru as he finds himself thrust into a high-stakes conflict within the "Hero Union," an organization that monitors and controls those with superpowers. As he navigates this dangerous world and attempts to overcome the psychological limitations of his power, he must decide whether to be a hero or a villain.
